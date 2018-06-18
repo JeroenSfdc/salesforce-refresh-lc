@@ -1,2 +1,4 @@
 # salesforce-refresh-lc
-Lightning component to refresh a complete page
+Refresh your Lightning record page with this simple component! 
+
+
